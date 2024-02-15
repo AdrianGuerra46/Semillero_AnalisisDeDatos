@@ -34,7 +34,10 @@ Semana santa (25/03 - 03/24)
 16. Revisión de los proyectos 1 y 2.
 
 ## Estructura del Repositorio 
-Cada uno de los encuentros (que por cierto, son semanales) tendrá su propio directorio, en este dividiré el contenido del encuentro en tantos ficheros como vea necesario, tanto los encuentros, como los ficheros estarán enumerados para ser expuestos en orden. Todos los directorios tendrán un fichero llamado "00-info.py" el cual será un fichero compuesto exclusivamente de comentarios de python, en el cual se explicará el objetivo y/o temario del encuentro. 
+- Cada uno de los encuentros (que por cierto, son semanales) tendrá su propio directorio, en este dividiré el contenido del encuentro en tantos ficheros como vea necesario.
+- Tanto los encuentros, como los ficheros, estarán enumerados para ser expuestos en orden. 
+- Todos los directorios tendrán su propio README.md en el cual se explicaran algunos aspectos importantes del propio encuentro, por supuesto la manera de visualizar este README es desde la propia interfaz web de GitHub o si deseas descargar el contenido del repositorio puedes verlo en texto plano o desde cualquier visualizador de markdown (recomiendo instalar una extension en Visual Studio Code). 
+- Recomiendo leer por completo el README de cada Directorio/encuentro. Antes de ir con los ficheros.
 
 > **Nota**: Recomiendo instalar la extension de Visual Studio Code llamada "Better Coments" ya que yo la usare para mostrar diferente informacion en los ficheros. Permite poner comentarios con estilos como:
 > ![BetterComments](https://ihatetomatoes.net/wp-content/uploads/2018/07/img_better-comments.png)
