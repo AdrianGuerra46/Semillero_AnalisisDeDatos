@@ -1,11 +1,9 @@
 ***Nota:*** Este semestre 2024-1 asistiré al semillero "análisis de datos con Python" como estudiante. La intención de este repositorio es compartir mis notas y diferentes aprendizajes provenientes de este semillero. Otro de los mótivos de este semillero es utilizar Visual Studio Code para llevarlo a cabo, ya que, actualmente el semillero es desarrollado en hojas de Colab. Igualmente en el directorio llamado [original documents](https://github.com/AdrianGuerra46/Semillero_AnalisisDeDatos/tree/master/Original%20Documents) estarán los documentos y hojas de Colab originales que comparte el docente. 
 
-![imagen ilustrativa](https://media.licdn.com/dms/image/D5612AQG-tCAXZkEUHw/article-cover_image-shrink_720_1280/0/1701564869677?e=2147483647&v=beta&t=nUKsbAydDoOpeoTXRsafO3Hg4HmbGCE77QE0nNpCbRU)
-
-
 # Semillero Análisis de datos con Python
 
 > ## **Docente:** *Juan Guillermo Suarez*
+![imagen ilustrativa](https://media.licdn.com/dms/image/D5612AQG-tCAXZkEUHw/article-cover_image-shrink_720_1280/0/1701564869677?e=2147483647&v=beta&t=nUKsbAydDoOpeoTXRsafO3Hg4HmbGCE77QE0nNpCbRU)
 
 El semillero de Analisis de datos con Python, es un semillero disponible en la Universidad EIA y dirigido por el docente Juan Guillermo suarez; está dividido en 3 dificultados/complejidades: Básico, intermedio y avanzado. En el semestre 2024-1 abordaremos el básico y contiene los siguientes temas: 
 
