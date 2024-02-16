@@ -34,6 +34,7 @@ Semana santa (25/03 - 03/24)
 ## Estructura del Repositorio 
 - Cada uno de los encuentros (que por cierto, son semanales) tendrá su propio directorio, en este dividiré el contenido del encuentro en tantos ficheros como vea necesario.
 - Tanto los encuentros, como los ficheros, estarán enumerados para ser expuestos en orden. 
+- Algunos ficheros pueden llegar a ser un poco extensos, así que recomiendo correr porciones de código conforme se avance en el fichero. Recuerda que esto lo puedes hacer desde Visual Studio Code, seleccionando la porción de código que deseas ejecutar y dando "Click derecho" - "Run Code" 
 - Todos los directorios tendrán su propio README.md en el cual se explicaran algunos aspectos importantes del propio encuentro, por supuesto la manera de visualizar este README es desde la propia interfaz web de GitHub o si deseas descargar el contenido del repositorio puedes verlo en texto plano o desde cualquier visualizador de markdown (recomiendo instalar una extension en Visual Studio Code). 
 - Recomiendo leer por completo el README de cada Directorio/encuentro. Antes de ir con los ficheros.
 
